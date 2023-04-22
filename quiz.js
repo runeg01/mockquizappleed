@@ -342,7 +342,7 @@ correctAnswer: 'Reduce peak energy demand'
 },
 
 {
-question: 'Which of the following strategies can help improve a building�s energy performance?',
+question: 'Which of the following strategies can help improve a building’s energy performance?',
 choices: ['Incorporating daylighting', 'Installing energy-efficient windows', 'Upgrading insulation', 'All of the above'],
 correctAnswer: 'All of the above'
 },
@@ -362,6 +362,204 @@ correctAnswer: 'All of the above'
             // ... other questions for Set 3
         ]
     },
+    {
+        subheading: 'Materials and Resources',
+        questions: [
+          {
+question: 'What is the primary goal of the LEED Materials and Resources category?',
+choices: ['Reduce waste', 'Improve indoor air quality', 'Promote the use of sustainable materials', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which LEED credit focuses on reusing existing building structures and materials?',
+choices: ['Building Life-Cycle Impact Reduction', 'Construction and Demolition Waste Management', 'Sourcing of Raw Materials', 'Material Ingredient Reporting'],
+correctAnswer: 'Building Life-Cycle Impact Reduction'
+},
+
+{
+question: 'What is the main purpose of the LEED credit for Construction and Demolition Waste Management?',
+choices: ['Promote recycling of construction waste', 'Reduce waste sent to landfills', 'Encourage waste reduction', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which of the following strategies can contribute to achieving the Sourcing of Raw Materials credit?',
+choices: ['Using recycled materials', 'Using materials with a low carbon footprint', 'Using materials that are sourced responsibly', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary benefit of using materials with high recycled content?',
+choices: ['Reducing the demand for virgin materials', 'Conserving water', 'Improving indoor air quality', 'Enhancing energy efficiency'],
+correctAnswer: 'Reducing the demand for virgin materials'
+},
+
+{
+question: 'Which LEED credit encourages the use of products that have been verified to have low VOC emissions?',
+choices: ['Low-Emitting Materials', 'Environmental Product Declarations', 'Sourcing of Raw Materials', 'Material Ingredient Reporting'],
+correctAnswer: 'Low-Emitting Materials'
+},
+
+{
+question: 'What is the primary purpose of the Environmental Product Declarations credit in LEED?',
+choices: ['Promote transparency in the environmental impact of products', 'Encourage the use of recycled materials', 'Reduce the amount of waste generated during construction', 'Improve energy efficiency'],
+correctAnswer: 'Promote transparency in the environmental impact of products'
+},
+
+{
+question: 'Which of the following strategies can help promote the use of sustainable materials in a building project?',
+choices: ['Using local materials', 'Specifying materials with high recycled content', 'Selecting materials with third-party certifications', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the main goal of the LEED credit for Material Ingredient Reporting?',
+choices: ['Promote material transparency', 'Reduce the use of toxic materials', 'Encourage the use of sustainable materials', 'All of the above'],
+correctAnswer: 'Promote material transparency'
+},
+
+{
+question: 'Which of the following building materials would be considered rapidly renewable?',
+choices: ['Steel', 'Concrete', 'Bamboo', 'Brick'],
+correctAnswer: 'Bamboo'
+}
+            
+            // ... other questions for Set 3
+        ]
+    },
+     {
+        subheading: 'Indoor Environmental Quality',
+        questions: [
+{
+question: 'What is the primary goal of the LEED Indoor Environmental Quality category?',
+choices: ['Promote energy efficiency', 'Improve indoor air quality', 'Reduce water consumption', 'Encourage the use of sustainable materials'],
+correctAnswer: 'Improve indoor air quality'
+},
+
+{
+question: 'Which LEED credit focuses on providing a high level of thermal comfort to building occupants?',
+choices: ['Thermal Comfort', 'Indoor Air Quality Assessment', 'Enhanced Indoor Air Quality Strategies', 'Daylight'],
+correctAnswer: 'Thermal Comfort'
+},
+
+{
+question: 'What is the main purpose of the LEED credit for Enhanced Indoor Air Quality Strategies?',
+choices: ['Control indoor air pollutants', 'Increase outdoor air ventilation rates', 'Monitor indoor air quality', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which of the following strategies can contribute to achieving the Indoor Air Quality Assessment credit?',
+choices: ['Using low-VOC materials', 'Performing a flush-out of the building', 'Installing carbon dioxide sensors', 'All of the above'],
+correctAnswer: 'Performing a flush-out of the building'
+},
+
+{
+question: 'What is the primary benefit of using low-emitting materials in a LEED project?',
+choices: ['Reducing the demand for virgin materials', 'Conserving water', 'Improving indoor air quality', 'Enhancing energy efficiency'],
+correctAnswer: 'Improving indoor air quality'
+},
+
+{
+question: 'Which LEED credit encourages the use of daylight to reduce the need for artificial lighting?',
+choices: ['Daylight', 'Thermal Comfort', 'Enhanced Indoor Air Quality Strategies', 'Low-Emitting Materials'],
+correctAnswer: 'Daylight'
+},
+
+{
+question: 'What is the primary purpose of the Acoustic Performance credit in LEED?',
+choices: ['Promote occupant productivity', 'Provide a comfortable acoustic environment', 'Reduce the transmission of noise between spaces', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which of the following strategies can help improve indoor environmental quality?',
+choices: ['Incorporating daylighting', 'Specifying low-emitting materials', 'Providing individual lighting controls', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the main goal of the LEED credit for Interior Lighting?',
+choices: ['Promote energy efficiency', 'Improve occupant comfort', 'Encourage the use of sustainable materials', 'Control indoor air pollutants'],
+correctAnswer: 'Improve occupant comfort'
+},
+
+{
+question: 'Which of the following building design features would contribute to achieving the Thermal Comfort credit?',
+choices: ['Using energy-efficient windows', 'Providing individual occupant temperature controls', 'Installing energy recovery ventilators', 'All of the above'],
+correctAnswer: 'Providing individual occupant temperature controls'
+}
+            
+            // ... other questions for Set 3
+        ]
+    },
+    {
+        subheading: ' Innovation and Regional Priority',
+        questions: [
+{
+question: 'What is the primary goal of the LEED Innovation category?',
+choices: ['Recognize exceptional performance', 'Encourage innovative solutions', 'Promote projects that go beyond the scope of LEED credits', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which LEED credit rewards projects for addressing specific environmental concerns unique to their region?',
+choices: ['Innovation', 'Regional Priority', 'Exemplary Performance', 'Pilot Credits'],
+correctAnswer: 'Regional Priority'
+},
+
+{
+question: 'What is the main purpose of the LEED Pilot Credits?',
+choices: ['Test new credits before they become part of the rating system', 'Encourage innovation', 'Reward projects for exceptional performance', 'All of the above'],
+correctAnswer: 'Test new credits before they become part of the rating system'
+},
+
+{
+question: 'How can a project achieve an Exemplary Performance credit?',
+choices: ['By going beyond the requirements of an existing LEED credit', 'By using innovative strategies', 'By addressing regional environmental issues', 'By participating in the Pilot Credit Library'],
+correctAnswer: 'By going beyond the requirements of an existing LEED credit'
+},
+
+{
+question: 'What is the primary benefit of addressing regional environmental concerns in a LEED project?',
+choices: ['Reducing the demand for virgin materials', 'Conserving water', 'Improving indoor air quality', 'Enhancing the project’s positive impact on the local environment'],
+correctAnswer: 'Enhancing the project’s positive impact on the local environment'
+},
+
+{
+question: 'Which of the following can contribute to achieving an Innovation credit?',
+choices: ['Implementing a unique sustainable design strategy', 'Achieving an Exemplary Performance credit', 'Applying a Pilot Credit', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which of the following projects is more likely to receive a Regional Priority credit?',
+choices: ['A project addressing water scarcity in an arid region', 'A project using low-VOC materials', 'A project implementing a green roof', 'A project with an optimized energy performance'],
+correctAnswer: 'A project addressing water scarcity in an arid region'
+},
+
+{
+question: 'What is the maximum number of points a project can earn in the Innovation category?',
+choices: ['5', '6', '7', '8'],
+correctAnswer: '5'
+},
+
+{
+question: 'Which of the following strategies can be considered innovative in a LEED project?',
+choices: ['Implementing a new technology that improves energy efficiency', 'Using a novel approach to stormwater management', 'Developing a unique method to enhance occupant well-being', 'All of the above'],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Who determines the Regional Priority credits for a specific region?',
+choices: ['The project team', 'The U.S. Green Building Council', 'Local government agencies', 'Regional green building councils'],
+correctAnswer: 'The U.S. Green Building Council'
+}
+            
+            // ... other questions for Set 3
+        ]
+    }
     // Add more sets as needed
 ];
 
